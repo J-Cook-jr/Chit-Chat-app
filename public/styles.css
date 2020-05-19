@@ -1,0 +1,25 @@
+body {
+    background-color: hsl(210, 32%, 93%) ;
+
+}
+
+.card-header{
+   background-color: #20639B;
+   color: aliceblue;
+   font-size: large;
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+.card{
+    border: none;
+    
+}
+
+.form-control{
+    background-color: hsl(210, 38%, 97%) ;
+    border: none;
+}
